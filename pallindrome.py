@@ -15,3 +15,5 @@ if(pallindrome(n)):
   print("The Given number is Pallindrome")
 else:
   print("The Given number is not Pallindrome")
+
+print("Welcome to repo")
