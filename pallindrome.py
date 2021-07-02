@@ -1,10 +1,10 @@
 def pallindrome(n):
   temp=n
   rev=0
-  while(t>0):
+  while(temp>0):
     digit=temp%10
     rev=rev*10+digit
-    t=t//10
+    temp=temp//10
   if(rev==n):
     return 1
   else:
